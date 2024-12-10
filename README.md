@@ -29,7 +29,6 @@ npm install
 2. Copy the following content into the .env file and replace YOUR_RAPIDAPI_KEY with your actual RapidAPI key:
 ```
 VITE_RAPIDAPI_KEY=YOUR_RAPIDAPI_KEY
-VITE_RAPIDAPI_HOST=wft-geo-db.p.rapidapi.com
 ```
 
 ### Start Server
